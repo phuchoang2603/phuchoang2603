@@ -1,8 +1,8 @@
 Hi, I'm Felix 👋
 
-🤓 A DevOps engineer, homelab tinkerer, and soccer enthusiast from Hanoi, Vietnam. 🇻🇳
+🤓 A DevOps engineer, homelab tinkerer, and soccer enthusiast from Hanoi, Vietnam 🇻🇳
 
-🏫 Currently a sophomore at USF in Tampa, FL. 🇺🇸
+🏫 Currently a sophomore at USF in Tampa, FL 🇺🇸
 
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
@@ -16,4 +16,6 @@ Hi, I'm Felix 👋
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 
 # 📊 GitHub Stats:
-![phuchoang2603's Stats](https://github-readme-stats.vercel.app/api?username=phuchoang2603&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phuchoang2603&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phuchoang2603&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phuchoang2603&theme=github_dark)
