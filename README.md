@@ -1,6 +1,6 @@
 Hi, I'm Felix 👋
 
-🤓 A DevOps engineer, homelab tinkerer, and soccer enthusiast from Hanoi, Vietnam 🇻🇳
+🤓 A DevOps engineer, NixOs user, Homelab tinkerer, and soccer enthusiast from Hanoi, Vietnam 🇻🇳
 
 🏫 Currently a sophomore at USF in Tampa, FL 🇺🇸
 
