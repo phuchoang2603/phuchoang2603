@@ -1,8 +1,6 @@
 Hi, I'm Felix 👋
 
-🤓 A DevOps engineer, NixOs user, Homelab tinkerer, and soccer enthusiast from Hanoi, Vietnam 🇻🇳
-
-🏫 Currently a sophomore at USF in Tampa, FL 🇺🇸
+🤓 Just a computer nerd from Hanoi, Vietnam 🇻🇳
 
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
